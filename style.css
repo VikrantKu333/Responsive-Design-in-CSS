@@ -1,0 +1,50 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+}
+h1{
+    display: none;
+}
+#responsive-image img{
+    width: 98%;
+    border-radius: 20px;
+    box-shadow: 0 3px 6px black;
+}
+
+/* ------- Mobile Screen ------- 
+@media (max-width: 500px){
+    body{
+        background-color: red;
+    }
+    #mobile h1{
+        display: block;
+    }
+}
+/* ------- Tablet Screen ------- 
+@media (min-width: 501px) and (max-width: 768px){
+    body{
+        background-color: green;
+    }
+    #tablet h1{
+        display: block;
+    }
+}
+/* ------- Laptop Screen ------- 
+@media (min-width: 769px) and (max-width: 1200px){
+    body{
+        background-color: blue;
+    }
+    #laptop h1{
+        display: block;
+    }
+}
+/* ------- Wide Screen ------- 
+@media (min-width: 1201px){
+    body{
+        background-color: yellow;
+    }
+    #wide-screen h1{
+        display: block;
+    }
+}*/
